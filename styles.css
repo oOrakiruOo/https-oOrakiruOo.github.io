@@ -1,0 +1,29 @@
+.nav {
+    width: 1200px;
+    padding: 0 10px;
+    margin: 0 auto;
+    background-color: darkgrey;
+}
+
+.menu {
+    float: right;
+    list-style: none;
+}
+
+.mid-box back {
+    background-size: cover;
+}
+
+.main h1 {
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.main p {
+    color: red;
+    text-align: center;
+}
+
+footer {
+    font-size: 10px;
+}
